@@ -4,6 +4,7 @@
   "description": "Template Folder for CPP Project ",
   "author": {"name": "GufoForte","email": "federicopoggi3@gmail.com"},
   "repository": {"url": "https://github.com/Federico-Poggi/scafoldingcpp"},
+  "license":"UNLICENSED",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
