@@ -1,7 +1,7 @@
 {
   "name": "cpptemplate",
   "displayName": "ScafoldingCPP",
-  "description": "Template Folder for CPP Project ",
+  "description": "Template Folder for CPP Project for more info https://github.com/Federico-Poggi/scafoldingcpp",
   "author": {"name": "GufoForte","email": "federicopoggi3@gmail.com"},
   "publisher": "GufoForte",
   "repository": {"url": "https://github.com/Federico-Poggi/scafoldingcpp"},
