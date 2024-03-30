@@ -13,13 +13,15 @@
   "categories": [
     "Extension Packs"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onCommand:scafoldingcpp.gettemplate"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "scafoldingcpp.template",
-        "title": "C++ Template"
+        "command": "scafoldingcpp.gettemplate",
+        "title": "GetTemplate"
       }
     ]
   },
