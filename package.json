@@ -6,7 +6,7 @@
   "publisher": "GufoForte",
   "repository": {"url": "https://github.com/Federico-Poggi/scafoldingcpp"},
   "license":"UNLICENSED",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.87.0"
   },
